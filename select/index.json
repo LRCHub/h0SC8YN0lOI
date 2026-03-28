@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "シネマ",
   "base_artist": "Ayase",
-  "createdAt": "2026-03-19T08:11:00.800360Z",
+  "createdAt": "2026-03-28T06:23:58.986532Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -93,6 +93,14 @@
       "path": "select/11_たいせつなひと_(シネマ・ヴァージョン)_さだまさし.txt"
     },
     {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シネマ (instrumental)",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/12_シネマ_(instrumental)_Ayase.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "シネマ",
@@ -107,7 +115,7 @@
       "artist": "Ayase",
       "has_synced": true,
       "path": "select/localdb_01_シネマ_Ayase.lrc",
-      "repo_name": "8dywenCWPI0"
+      "repo_name": "qsMGWds79Bc"
     },
     {
       "id": "localdb_2",
@@ -116,6 +124,33 @@
       "artist": "Ayase",
       "has_synced": true,
       "path": "select/localdb_02_シネマ_Ayase.lrc",
+      "repo_name": "VbYt5fs7nmA"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_03_シネマ_Ayase.lrc",
+      "repo_name": "h0SC8YN0lOI"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_04_シネマ_Ayase.lrc",
+      "repo_name": "8dywenCWPI0"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_05_シネマ_Ayase.lrc",
       "repo_name": "-kOstuCnCVI"
     }
   ]
